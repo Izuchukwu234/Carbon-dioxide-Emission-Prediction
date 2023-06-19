@@ -1,6 +1,6 @@
 # Carbon dioxide Emission Prediction
 
-Here, we used scikit-learn library to implement Multiple linear regression. We again use the Carbon dioxide emission dataset to build a model, Evaluate the model, and finally use model to predict unknown value. Datasets provide model-specific fuel consumption ratings and estimated carbon dioxide emissions for new light-duty vehicles for retail sale in Canada.
+Here, we used scikit-learn library to implement both Simple and Multiple Linear Regression. We again use the Carbon dioxide emission dataset to build a model, Evaluate the model, and finally use model to predict unknown value. Datasets provide model-specific fuel consumption ratings and estimated carbon dioxide emissions for new light-duty vehicles for retail sale in Canada.
 
 To help you compare vehicles from different model years, the fuel consumption ratings have been adjusted to reflect 5-cycle testing. Note that these are approximate values that were generated from the original ratings, not from vehicle testing.
 
